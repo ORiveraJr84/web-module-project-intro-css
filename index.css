@@ -1,5 +1,6 @@
 html {
     font-size: 62.5%;
+    background-color: #d9e3f4;
 }
 
 * {
@@ -22,6 +23,9 @@ a {
 #container {
     max-width: 850px;
     margin: 0 auto;
+    background-color: white;
+    padding: 5px 20px;
+    margin-top: 0;
 }
 
 #container > section:nth-of-type(2) {
